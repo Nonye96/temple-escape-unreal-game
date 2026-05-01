@@ -1,6 +1,6 @@
 # Temple Escape – Unreal Engine Game
 
-A third-person adventure game built independently using Unreal Engine, where the player navigates through a temple environment while avoiding AI temple gauardian and obstacles to reach the goal.
+A third-person adventure game built independently using Unreal Engine, where the player navigates through a temple environment while avoiding AI temple guardian and obstacles to reach the goal.
 
 ---
 
