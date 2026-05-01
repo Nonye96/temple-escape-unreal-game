@@ -1,0 +1,6 @@
+# Unreal Engine
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+.vs/
