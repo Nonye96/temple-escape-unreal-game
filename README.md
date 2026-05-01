@@ -44,9 +44,9 @@ A third-person adventure game built independently using Unreal Engine, where the
 
 ---
 
-
----
+```
 ## 📁 Project Structure
+
 TempleEscape/
 ├── Config/
 ├── Content/
@@ -54,7 +54,8 @@ TempleEscape/
 ├── screenshots/
 │ └── gameplay.png
 ├── TempleEscape.uproject
----
+
+```
 
 ---
 
