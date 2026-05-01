@@ -54,7 +54,6 @@ TempleEscape/
 ├── screenshots/
 │ └── gameplay.png
 ├── TempleEscape.uproject
-
 ---
 
 ---
